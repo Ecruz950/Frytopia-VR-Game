@@ -1,0 +1,4 @@
+repository "Frytopia VR Game/Frytopia VR Game@2475821037816@cloud"
+  path "/"
+    br "/main"
+    co "/main"
