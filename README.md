@@ -52,7 +52,7 @@ Packages/
 ```
 
 ## Screenshots
-![frytopia-screenshots](Frytopia-screenshot)
+![frytopia-screenshots](Frytopia-screenshot.png)
 
 ## Contributing
 
